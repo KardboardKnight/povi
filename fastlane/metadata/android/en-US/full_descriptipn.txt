@@ -1,0 +1,1 @@
+This is a navigation app primarily designed to be a worse google maps. I wanted to be able to select nearby points of interest and be given a heading, then road signs and exploration fill in the choices from point a to b.
