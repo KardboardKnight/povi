@@ -1,0 +1,4 @@
+This application uses data from OpenStreetMap.
+© OpenStreetMap contributors
+Data is available under the Open Database License (ODbL):
+https://www.openstreetmap.org/copyright
